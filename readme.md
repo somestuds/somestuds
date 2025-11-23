@@ -7,9 +7,7 @@
         <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="py"/>
         <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="csharp"/>
         <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="java"/>
-        <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" title="Rustlang" alt="rust"/>
         <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/60px-Luau_Logo_%28Programming_Language%29.svg.png?20220524083445" title="Luau (Roblox)" alt="luau"/>
-        <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" title="Visual Basic" alt="vbdotnet"/>
         <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="visualstudio"/>
         <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="vscode"/> </br>
         <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" alt="reactjs"/>
@@ -22,7 +20,6 @@
         <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown" alt="markdown"/>
         <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows Development" alt="windows dev"/>
         <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vitejs/Vitepress" alt="vite"/>
-        <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="Unity 3D" alt="unity"/>
     </h1>
     <h3 align="center">
         Hello 👋,</br>
