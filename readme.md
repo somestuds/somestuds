@@ -24,33 +24,17 @@
     </h1>
     <h3 align="center">
         Hello 👋,</br>
-        I am a cool sigma programmer 😎 <sub>(kill me)</sub>
+        I like cats 🐱
     </h3>
-    </br>
-    <h3 align="center">
-        I am <!-- _startage --> 15 <!-- _endage --> years old, and started programming in roblox at 6.
-    </h3>
+    <h4 align="center">
+        Currently, I am most fluent in React and Luau.
+    </h4>
 </p>
 
 ```lua
---[[ 
-In Roblox Studio, I was a little bit of a project hoarder,
-with over 76 unfinished games (not counting archived) before 
-I moved on to other languages, like Python 3.8, C#, Nodejs, ]]
-
-local defaultLanguages = {"luau"}
-local age : number = _G.age
-local programmingLanguages : {} = _G.languages
-
-for year = 6, age do
-    table.insert(defaultLanguages,
-            programmingLanguages[Random.new():NextInteger(1,#programmingLanguages)]
-    )
-end
-
-print(defaultLanguages) -- Prints: What i learned for now.
+print(("cat, "):rep(10000))
 ```
 I hope some of my projects give out joy or make other programmers' lives easier</br>
 Come check out my website [here](https://somestuds.github.io) (I haven't made it yet)
 
-oh yeah i like spongebob btw
+F.U.N.
