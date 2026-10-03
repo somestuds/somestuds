@@ -35,6 +35,6 @@
 print(("cat, "):rep(10000))
 ```
 I hope some of my projects give out joy or make other programmers' lives easier</br>
-Come check out my website [here](https://somestuds.github.io) (I haven't made it yet)
+Come check out my website [here](https://somestuds.vercel.app) (I haven't made it yet)
 
 F.U.N.
